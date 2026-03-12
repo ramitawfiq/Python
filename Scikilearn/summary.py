@@ -1,6 +1,6 @@
 """
-ULTIMATE SCIKIT-LEARN MASTER SCRIPT (14 CHAPTERS)
-Python Data Science Handbook (13 chapters) + Scikit-Learn Cheat Sheet
+ULTIMATE SCIKIT-LEARN MASTER SCRIPT 
+Python - Scikitlearn Cheat Sheet
 SINGLE EXECUTABLE FILE - COMPLETE ML EDUCATION
 """
 
